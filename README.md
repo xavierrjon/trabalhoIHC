@@ -1,4 +1,4 @@
-# trabalhoIHC
+# TP1 - IHC
 
 Curso:
 
