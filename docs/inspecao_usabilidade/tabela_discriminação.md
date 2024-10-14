@@ -1,8 +1,8 @@
 # Discriminação
 Classificação da discrepâncias como defeitos reais ou não(Positivo ou Falso-Positivo)
 
-| ID | Descrição do Problema | Classificação |
-|-------------|-------------|-------------|
+| ID | Descrição do Problema | Heurística | Severidade | Classificação |
+|-------------|-------------|-------------|-------------|-------------|
 | 1 | | | | |
 | 2 | | | | |
 | 3 | | | | |
