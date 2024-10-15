@@ -16,18 +16,16 @@ Abaixo todos os potencias problemas de usabilidade encontrados por cada um dos i
 | 2 | Muitas ofertas, produtos e informações desnecessárias na página inicial | H8 | 2 | Página inicial  |
 | 3 | Dificuldade na localização e navegação do usuário | H1 | 3 | Página inicial e subpáginas |
 
-## Inspetor: A3
+## Inspetor: Alexandre Reis
 | ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
 |-------------|-------------|-------------|-------------|-------------|
-| 1 |  | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 | Página inicial muito poluída | H1 | 3 | Página inicial |
+| 2 | Dificuldade de localização do usuário na página | H1 | 2 | Página inicial e Subpáginas |
 
-## Inspetor: A4
+## Inspetor: Juliano Matheus
 | ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
 |-------------|-------------|-------------|-------------|-------------|
-| 1 | | | | |
+| 1 | interface confusa e com muita informação | H1 | 2 | Página inicial e subpáginas |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
