@@ -3,7 +3,7 @@ Abaixo todos os potenciais problemas de usabilidade encontrados por cada um dos 
 ## Inspetor: Luciano Hugo
 | ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
 |-------------|-------------|-------------|-------------|-------------|
-| 1 | Dificuldade na localização do botão de login | H1 | 3 | Página inicial |
+| 1 | Dificuldade na localização do botão de login | H1 | 2 | Página inicial |
 | 2 | Mudança de cor repentina da barra de rolagem, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H1 e H4 | 2 | Página de compra de produto |
 | 3 | Não há um botão de voltar na página de confirmação de pedido | H3 e H5 | 3 | Página de confirmação de pedido e página de seleção de forma de pagamento |
 | 4 | Há excesso de informação na página inicial | H8 | 2 | Página inicial |
