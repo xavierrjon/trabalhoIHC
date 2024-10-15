@@ -78,7 +78,7 @@ T4:  Avaliação UX<br>
   <p>
   Cada integrante da equipe realizou uma inspeção individual do site, analisando as principais funcionalidades e identificando problemas de usabilidade seguindo as heurísticas. Os problemas foram organizados em uma tabela individual para cada inspetor. A tabela de detecção pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_deteccao.md">aqui</a>
     
-    ## Inspetor: Luciano Hugo
+## Inspetor: Luciano Hugo
 | ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
 |-------------|-------------|-------------|-------------|-------------|
 | 1 | Dificuldade na localização do botão de login | H1 | 2 | Página inicial |
@@ -118,7 +118,31 @@ T4:  Avaliação UX<br>
   <h2>3.3 - Coleção</h2>
 </p>
 Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As duplicatas foram eliminadas, deixando apenas os problemas únicos para serem discutidos e avaliados. A tabela de coleção pode ser visualizada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_colecao.md">aqui.</a>
+
+| ID | Inspetores | Descrição do Problema | Heurísticas Violadas | Severidade |
+|-------------|-------------|-------------|-------------|-------------|
+| 1 | A1 | Dificuldade na localização do botão de login | H1 | 2 |
+| 2 | A1, A4 e A5 | Ausência de uma opção de voltar na hora da finalização da compra | H3 e H5 | 3 |
+| 3 | A2 e A5 | O site não possui um padrão de layout, cores, ícones e formatação | H4 | 2 |
+| 4 | A2 e A3 | Dificuldade na localização e navegação do usuário | H1 | 3 |
+| 5 | A1, A2, A3, A4 e A5 | interface confusa e poluída pelo excesso de informação | H8 | 2 |
+| 6 | A5 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda| H10 | 2 |
+| 7 | A1 | No modo noturno, a visibilidade da barra de rolagem é mínima, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 |
 <p>
+  <h2>3.4 - Discriminação</h2>
+  Aqui, foram analisados os problemas de usabilidade identificados e classificados como sendo um defeito real ou falsos-positivos, e também foram categorizados com base nas heurísticas violadas e na severidade. A tabela de discriminação pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_discriminação.md">aqui</a>.
+
+| ID | Descrição do Problema | Heurística | Severidade | Classificação |
+|-------------|-------------|-------------|-------------|-------------|
+| 1 | Dificuldade na localização do botão de login | H1 | 2 | Falso-Positivo |
+| 2 | Ausência de uma opção de voltar na hora da finalização da compra | H3 e H5 | 3 | Defeito |
+| 3 | O site não possui um padrão de layout, cores, ícones e formatação | H4 | 2 | Defeito |
+| 4 | Dificuldade na localização e navegação do usuário | H1 | 3 | Defeito |
+| 5 | interface confusa e poluída pelo excesso de informação | H8 | 2 | Defeito |
+| 6 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda | H9 | 2 | Falso-Positivo |
+| 7 | No modo noturno, a visibilidade da barra de rolagem é mínima, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 | Falso-Positivo | 
+  <p>
+  </p>
   <h2>3.5 - Consolidação (ou priorização)</h2>
   <p>
     (aqui vai alguma coisa)
