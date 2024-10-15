@@ -77,6 +77,7 @@ T4:  Avaliação UX<br>
   <h2>3.2 - Detecção</h2>
   <p>
   Cada integrante da equipe realizou uma inspeção individual do site, analisando as principais funcionalidades e identificando problemas de usabilidade seguindo as heurísticas. Os problemas foram organizados em uma tabela individual para cada inspetor. A tabela de detecção pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_deteccao.md">aqui</a>
+    AAAAA
 </p>
 </p>
 <p>
@@ -91,16 +92,16 @@ Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As 
 
 | Heurísticas violadas | Quantidade |
 | ----- | ------ |
-| Visibilidade do estado do sistema (H1) | x |
-| Correspondência entre o sistema e o mundo real (H2) | x |
-| Controle e liberdade do usua rio (H3) | x |
-| Consistencia e padronizaça o (H4) | x |
-| Prevenção de erros (H5) | x |
-| Reconhecer ao invés de relembrar (H6) | x |
-| Flexibilidade e eficiência de uso (H7) | x |
-| Estética e design minimalista (H8) | x |
-| Ajudar os usuários a reconhecer,em diagnosticar e corrigir erros (H9) | x |
-| Ajuda e documentação (H10) | x |
+| Visibilidade do estado do sistema (H1) | 3 |
+| Correspondência entre o sistema e o mundo real (H2) | 0 |
+| Controle e liberdade do usua rio (H3) | 3 |
+| Consistencia e padronizaça o (H4) | 3 |
+| Prevenção de erros (H5) | 0 |
+| Reconhecer ao invés de relembrar (H6) | 0 |
+| Flexibilidade e eficiência de uso (H7) | 0 |
+| Estética e design minimalista (H8) | 5 |
+| Ajudar os usuários a reconhecer,em diagnosticar e corrigir erros (H9) | 0 |
+| Ajuda e documentação (H10) | 1 |
 
 <br> 
 
