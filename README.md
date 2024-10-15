@@ -77,6 +77,7 @@ T4:  Avaliação UX<br>
   <h2>3.2 - Detecção</h2>
   <p>
   Cada integrante da equipe realizou uma inspeção individual do site, analisando as principais funcionalidades e identificando problemas de usabilidade seguindo as heurísticas. Os problemas foram organizados em uma tabela individual para cada inspetor. A tabela de detecção pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_deteccao.md">aqui</a>
+    
     ## Inspetor: Luciano Hugo
 | ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
 |-------------|-------------|-------------|-------------|-------------|
