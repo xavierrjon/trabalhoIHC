@@ -10,4 +10,3 @@ Resultado após a eliminação de discrepâncias repetidas
 | 5 | A1, A2, A3, A4 e A5 | interface confusa e poluída pelo excesso de informação | H8 | 2 |
 | 6 | A5 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda| H9 | 2 |
 | 7 | A1 | Mudança de cor repentina da barra de rolagem, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 |
-| 8 | A1 | Dificuldade na localização do botão de login | H1 | 2 |
