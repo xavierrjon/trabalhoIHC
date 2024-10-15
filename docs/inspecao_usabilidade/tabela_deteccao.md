@@ -30,7 +30,7 @@ Abaixo todos os potenciais problemas de usabilidade encontrados por cada um dos 
 ## Inspetor: João Paulo
 | ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
 |-------------|-------------|-------------|-------------|-------------|
-| 1 | pois é necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda | H9 | 2 | Sessão de Ajuda |
+| 1 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda | H9 | 2 | Sessão de Ajuda |
 | 2 | A Homepage é visivelmente saturada, o que pode causar distrações | H8 | 1 | Página Inicial |
 | 3 | Não possui um padrão de cores e ícones consistentes | H4 | 2 | Página Inicial e Subpáginas |
 | 4 | Ausência de uma opção de voltar na hora da finalização da compra | H3 | 3 | Página de finalização de compra de produto |
