@@ -9,4 +9,4 @@ Classificação das discrepâncias como defeitos reais ou não (Positivo ou Fals
 | 4 | Dificuldade na localização e navegação do usuário | H1 | 3 | Defeito |
 | 5 | interface confusa e poluída pelo excesso de informação | H8 | 2 | Defeito |
 | 6 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda | H9 | 2 | Falso-Positivo |
-| 7 | No modo noturno, a visibilidade da barra de rolagem é mínima, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 | Falso-Positivo | 
+| 7 | A visibilidade da barra de rolagem é mínima, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 | Falso-Positivo | 
