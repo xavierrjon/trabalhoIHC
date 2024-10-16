@@ -19,13 +19,13 @@ Tarefas:<br>
  - T4:  Avaliação UX<br>
 <p>
 
-| Tarefas x Dia                        | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 | 17/10 |
-|--------------------------------------|----|----|----|----|----|----|----|
-| **T1: Preparação do documento para adicionar no GitHub** |X|X|A2:1|A1:1, A4:2|A1:2|X|X|
-| **T2: Fazer o Teste de Usabilidade**                     |X|X|X|X|X|X|x|
-| **T3: Preparar as atividades para os usuários**          |X|X|X|X|X|X|X|
-| **T4: Avaliação UX**                                     |X|X|X|X|X|X|X|
-| **T5:
+| Tarefas x Dia                        | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 |
+|--------------------------------------|----|----|----|----|----|----|
+| **T1: Preparação do documento para adicionar no GitHub** |X|X|A2:1|A1:1, A4:2|A1:2|A1:4, A2:4, A3:4, A4:4|
+| **T2: Fazer os Testes (comunicabilidade e Usabilidade)**                     |X|X|X|X|X|X|
+| **T3: Preparar as atividades para os usuários**          |X|X|X|X|X|X|
+| **T4: Formatar o slide**                                     |X|X|X|X|X|X|
+| **T5: Inspeção do Site**
 <p>
   <h1>2 - Sistema</h1>
 </p>
@@ -85,14 +85,14 @@ Tarefas:<br>
 </p>
 Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As duplicatas foram eliminadas, deixando apenas os problemas únicos para serem discutidos e avaliados. A tabela de coleção pode ser visualizada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_colecao.md">aqui.</a>
 <p>
-<p>
   <h2>3.4 - Discriminação</h2>
 </p>
 Aqui, foram analisados os problemas de usabilidade identificados e classificados como sendo um defeito real ou falsos-positivos, e também foram categorizados com base nas heurísticas violadas e na severidade. A tabela de discriminação pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_discrimina%C3%A7%C3%A3o.md">aqui.</a>
-</p>
+</>
+<p>
   <h2>3.5 - Consolidação (ou priorização)</h2>
   <p>
-    (aqui vai alguma coisa)
+    A equipe se reuniu e discutiu os problemas de usabilidade encontrados. Um dos problemas que receberam maior atenção foram os que violaram a heurística 8 de Nielsen (estética e design minimalista), assim como a heuristica 1 (visibilidade e status do sistema), onde a grande maioria dos inspetores, como usuários, se viram perdidos na navegação do sistema.
   </p>
 
 | Heurísticas violadas | Quantidade |
@@ -128,7 +128,7 @@ Aqui, foram analisados os problemas de usabilidade identificados e classificados
       Os perfis variaram desde usuários com pouca experiência em compras online até aqueles que utilizam aplicativos de forma frequente. As características de cada participante foram:
     </p>
     <p>
-- P1: Usuário novato, pouca experiência com apps de compras online. <br>
+- P1: Usuário intermediário, familiarizado com e-commerce, mas com uso esporádico. <br>
 - P2: Usuário intermediário, familiarizado com e-commerce, mas com uso esporádico. <br>
 - P3: Usuário avançado, utiliza frequentemente aplicativos de compras. <br>
 - P4: Usuário experiente, já familiarizado com o aplicativo. <p>
@@ -165,7 +165,7 @@ Durante a execução, os participantes foram orientados a falar em voz alta seus
       </p>
       <p>
         <h2>4.5 - Análise dos Resultados</h2>
-        (aqui vai alguma coisa)
+        Os resultados foram obtidos através de análise e cronometragem de cada tarefa realizada por cada usuário e estão apresentadas a seguir:
       </p>
     </p>
   </p>
@@ -295,57 +295,99 @@ Durante a execução, os participantes foram orientados a falar em voz alta seus
   <h1>5 - Avaliação UX</h1>
   <p>
     <h2>5.1 - Planejamento</h2>
-    <p>(aqui vai alguma coisa)</p>
+    <p>O processo de Avaliação de Experiência foi estruturado em duas etapas, onde a primeira fará uso de uma ferramenta de avaliação e a outra, será utilizado a pesquisa de emoção do usuário ao usar o sistema por meio de um questionário.</p>
     <h2>5.2 - 1ª Etapa</h2>
     <p>Para a primeira etapa, foi utilizada a ferramenta Lighthouse do Google, para avaliação da página inicial do site. Deste modo, foram obtidos os seguintes resultados para suas respectivas avaliações:</p>
     <p>
-      <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/Resultado%20LH.png?raw=true">
+      <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/Resultado%20LH.png?raw=true">
     </p>
   </p>
 </p>
-
 <p>
+  <h2>
+- Largest Contentful Paint (LCP)
+  </h2>
+  <br>
+  <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/Largest.png?raw=true"> <br> <br>
+
+  A LCP mede quando o maior elemento de conteúdo na janela de visualização é renderizado na tela. Isso é aproximado quando o conteúdo principal da página está visível para os usuários.
+  Para oferecer uma boa experiência ao usuário, os sites precisam ter uma Maior exibição de conteúdo de 2,5 segundos ou menos. Para garantir que o site alcance essa meta para a maioria dos usuários, um bom limite para medir é o 75% de carregamentos de página, segmentado em dispositivos móveis e computadores. <p>
+  <h2>
+- First Contentful Paint (FCP)<br>
+  </h2> <br>
+  <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/fcp.png?raw=true"> <br><br>
+  A FCP mede quanto tempo o navegador leva para renderizar a primeira parte do conteúdo DOM depois que um usuário navega até sua página. Imagens, elementos <'canvas'> não brancos e SVGs na sua página são considerados conteúdo DOM. Qualquer item dentro de um iframe não é incluído. A pontuação da FCP é uma comparação entre os tempos de FCP e de FCP da página para sites reais, com base nos dados do arquivo HTTP. Por exemplo, sites com desempenho no 99% renderizam a FCP em cerca de 1,2 segundo. Se a FCP do site é de 1,2 segundo, sua pontuação de FCP é 99.
+</p>
+<p>
+<h2>
+- Cumulative Layout Shift (CLS)
+</h2> <p>
+<img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/cumulative.png?raw=true"> <br><br>
+A CLS é uma medida do maior burst de pontuações de mudança de layout para cada mudança inesperada que ocorre durante todo o ciclo de vida de uma página. Uma mudança de layout ocorre sempre que um elemento visível muda a posição de um frame renderizado para outro. Para oferecer uma boa experiência ao usuário, os sites devem ter uma pontuação de CLS de 0,1 ou menos. Para garantir que o site alcance essa meta para a maioria dos usuários, um bom limite para medir é o 75% de carregamentos de página, segmentado em dispositivos móveis e computadores.
+<p>
+<p>
+<h2>- Total Blocking Time (TBT)</h2>
+<p>
+<img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/total.png?raw=true"> <br><br>
+O TBT mede o tempo total em que uma página fica bloqueada para responder à entrada do usuário, como cliques do mouse, toques na tela ou pressionamento do teclado. A soma é calculada adicionando a parte de bloqueio de todas as tarefas longas entre a Primeira exibição de conteúdo e o Tempo até a interação. Qualquer tarefa executada por mais de 50 ms é considerada longa. O período após 50 ms é a parte de bloqueio. A pontuação de TBT é uma comparação entre o tempo de TBT da página e o tempo de TBT multiplicado por milhões de sites reais quando carregados em dispositivos móveis.
+</p>
+<p><h2>- Speed Index (SI)</h2><p>
+<img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/speed.png?raw=true"> <br><br>
+O Índice de velocidade mede a rapidez com que o conteúdo é exibido visualmente durante o carregamento da página. O Lighthouse primeiro captura um vídeo do carregamento da página no navegador e calcula a progressão visual entre os frames. A pontuação do índice de velocidade é uma comparação entre os índices de velocidade da página e de sites reais, com base em dados do HTTP Archive. <p><h2>- Conclusão</h2><p>O site da Amazon foi considerado <b>REPROVADO</b> pela Avaliação das Core Web Vitals com os seguintes valores para Diagnóstico de Problema de Desempenho: <p> <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/desempenho.png?raw=true">
     <h2>5.3 - 2ª Etapa</h2>
-    (aqui vai alguma coisa)
+     Após  o teste de comunicabilidade, A ferramenta UEQ foi utilizada para concluir a avaliação de UX , os participantes foram convidados a fazerem o questionário para avaliar o sistema da amazon com base nas suas opiniões e impressões.
 </p>
 <br>
 <p>
     <h1>6 - Método de avaliação de comunicabilidade (MAC)</h1>
-    <p>
-        <h2>6.1 - Planejamento</h2>
-        <p>(aqui vai alguma coisa)</p>
-    </p>
-</p>
 <p>
     <h2>6.1 - Planejamento</h2>
     <p>
-        (aqui vai alguma coisa)
+        O MAC será realizado com 4 usuários. O Método de Avaliação de Comunicação será realizado em ambiente fechado e restrito, com equipamentos de gravação para registrar cada momento do teste, tanto o usuário como as suas ações. O usuário terá que realizar tarefas, que foram pré-estabelecidas pelo analista, após será analisado o seu desempenho. O objetivo do teste é analisar o sistema da Amazon. <br><br>
+Todos os usuários  leram e assinaram o Termo de Consentimento Livre e Esclarecido (TCLE). O avaliador também assinou o TCLE, e os termos assinados foram inseridos no relatório.
     </p>
 </p>
 <p>
     <h2>6.2 - Roteiro das atividades</h2>
     <p>
-        (aqui vai alguma coisa)
+        Os usuários foram instruídos a realizar as seguintes Atividades: <br><br>
+
+        
+1. Criar um login no site
+2. Fazer a busca por um ou mais  produtos no site
+3. Filtrar a busca pelo produto
+4. Adicionar os produtos em um carrinho
+5. Inserir uma forma de pagamento e os detalhes para envio
+6. Assinar o serviço Amazon Prime
+7. Tirar dúvidas sobre a devolução de um produto
+8. Compartilhar um Produto 
     </p>
     <p>
-        <h2>6.3 - Perfis dos Usuários</h2>
-        <p>
-            (aqui vai alguma coisa)
-        </p>
+<h2>6.3 - Perfis dos Usuários</h2>
+       <p>
+       O perfil dos usuários foi definido por meio da sua experiência de uso com sites de compra. <br><br>
+
+
+- P1: Usuário avançado, frequentemente utiliza site de compras online.
+- P2: Usuário experiente, regularmente faz compras no site.
+- P3: Usuário intermediário, possui alguma experiência com o site.
+- P4:  Usuário intermediário, possui alguma experiência com o site.
+      </p>
     </p>
     <p>
-        <h2>6.4 - Execução</h2>
-        <p>
-            (aqui vai alguma coisa)
-        </p>
-        <p>
-            <h3>6.4.1 - Resultado</h3>
-            <p>
-                (aqui vai alguma coisa)
-            </p>
-            <p>
-            </p>
-        </p>
+<h2>6.4 - Execução</h2>
+      <p>
+        A execução dos testes foi conduzida individualmente, com um avaliador acompanhando o progresso de cada participante. Foi utilizado um software de gravação de tela em cada um dos dispositivos para uma análise posterior, além da gravação das reações dos participantes enquanto realizavam as tarefas.<br>
+Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas do teste, os usuários poderiam verbalizar seus pensamentos, ações e opiniões ao longo das atividades, e, por último, foi informado ao participante que caso houvesse um problema ou dificuldade, ele deveria expressar suas frustrações e dúvidas livremente.
+</br>
+      <p>
+      <h3>6.4.1 - Resultado</h3>
+      <p>
+       Após a execução dos testes, foi possível coletar os seguintes dados e suas etiquetas:
+    </p>
+   <p>
+    </p>
+ </p>
     </p>
 </p>
 
@@ -353,83 +395,257 @@ Durante a execução, os participantes foram orientados a falar em voz alta seus
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu com pouca dificuldade|
+|P2|conseguiu|
+|P3|conseguiu|
+|P4|conseguiu com pouca dificuldade|
+<br>
+- Quantidade de Etiquetas:
+<br>
+
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
 
 <br>
 - Tarefa 2:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu|
+|P2|conseguiu|
+|P3|conseguiu|
+|P4|conseguiu|
 <br>
-- Tarefa 2:
+<br>
+- Quantidade de Etiquetas:
+<br>
 
-|Participante|Resultado|
-|------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
 <br>
 - Tarefa 3:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu|
+|P2|conseguiu com bastante dificuldade|
+|P3|conseguiu com pouca dificuldade|
+|P4|conseguiu com bastante dificuldade|
+<br>
+<br>
+- Quantidade de Etiquetas:
+<br>
+
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
 <br>
 - Tarefa 4:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu|
+|P2|conseguiu com pouca dificuldade|
+|P3|conseguiu com pouca dificuldade|
+|P4|conseguiu com pouca dificuldade|
+<br>
+<br>
+- Quantidade de Etiquetas:
+<br>
+
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
 <br>
 - Tarefa 5:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu|
+|P2|conseguiu com pouca dificuldade|
+|P3|conseguiu|
+|P4|conseguiu|
+<br>
+<br>
+- Quantidade de Etiquetas:
+<br>
+
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
 <br>
 - Tarefa 6:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu com bastante dificuldade|
+|P2|conseguiu com dificuldade|
+|P3|conseguiu com pouca dificuldade|
+|P4|conseguiu com pouca dificuldade|
+<br>
+<br>
+- Quantidade de Etiquetas:
+<br>
+
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
 <br>
 - Tarefa 7:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu com bastante dificuldade|
+|P2|não conseguiu|
+|P3|conseguiu com bastante dificuldade|
+|P4|conseguiu com bastante dificuldade|
+<br>
+<br>
+- Quantidade de Etiquetas:
+<br>
+
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
 <br>
 - Tarefa 8:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|x|
-|P2|x|
-|P3|x|
-|P4|x|
+|P1|conseguiu|
+|P2|conseguiu|
+|P3|conseguiu|
+|P4|coseguiu com pouca dificuldade|
+<br>
+- Quantidade de Etiquetas:
+<br>
+
+
+|Etiqueta|Quantidade|
+|--------|----------|
+|Cade?|x|
+|E agora?|x|
+|O que é isto?|x|
+|Epa!|x|
+|Onde estou?|x|
+|Assim não dá|x|
+|Por que não funciona?|x|
+|Ue, o que houve?|x|
+|Pra mim está bom...|x|
+|Desisto!|x|
+|Vai de outro jeito.|x|
+|Não, obrigado|x|
+|Socorro!|x|
+
 
 <p><br></p>
-<h1>7 - Reflexão Individual</h1>
+<h1>7 - Reflexão Individual</h1><br>
+
+A Reflexão Individual de cada aluno foi preparada após o término de todas as atividades do trabalho e estão disponbilizadas a seguir: <p>
+  Silva <b>#22402224</b><br>
+<a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/relatorios_individuais/relatorio_individual_a1.md">Reflexão Individual</a> <br>
+
+- Aluno 2: Johnny da Silva Xavier <b>#22450270</b><br>
+<a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/relatorios_individuais/relatorio_individual_a2.md">Reflexão Individual</a> <br>
+
+- Aluno 3: Juliano Matheus Amazonas de Souza <b>#22402228</b><br>
+<a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/relatorios_individuais/relatorio_individual_a3.md">Reflexão Individual</a> <br>
+
+- Aluno 4: Luciano Hugo Caliri Figueiredo <b>#22400266</b><br>
+<a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/relatorios_individuais/relatorio_individual_a4.md">Reflexão Individual</a> <br>
+
+- Aluno 5: Alexandre Reis dos Santos <b>#22402232</b><br>
+<a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/relatorios_individuais/relatorio_individual_a5.md">Reflexão Individual</a> <br>
