@@ -3,7 +3,7 @@ Classificação das discrepâncias como defeitos reais ou não (Positivo ou Fals
 
 | ID | Descrição do Problema | Heurística | Severidade | Classificação |
 |-------------|-------------|-------------|-------------|-------------|
-| 1 | Dificuldade na localização do botão de login | H1 | 2 | Falso-Positivo |
+| 1 | Dificuldade na localização do botão de login | H1 | 1 | Falso-Positivo |
 | 2 | Ausência de uma opção de voltar na hora da finalização da compra | H3 e H5 | 3 | Defeito |
 | 3 | O site não possui um padrão de layout, cores, ícones e formatação | H4 | 2 | Defeito |
 | 4 | Dificuldade na localização e navegação do usuário | H1 | 3 | Defeito |
