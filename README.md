@@ -10,21 +10,22 @@ A1: João Paulo Barreto da Silva <b>#22402224</b><br>
 A2: Johnny da Silva Xavier <b>#22450270</b><br>
 A3: Juliano Matheus Amazonas de Souza <b>#22402228</b><br>
 A4: Luciano Hugo Caliri Figueiredo <b>#22400266</b><br>
-A5:
+A5: Alexandre Reis dos Santos <b>#22402232</b>
   
 Tarefas:<br>
-T1:  Preparação do documento para adicionar no GitHub<br>
-T2:  Fazer o Teste de Usabilidade<br>
-T3:  Preparar as atividades para os usuários<br>
-T4:  Avaliação UX<br>
+ - T1:  Preparação do documento para adicionar no GitHub<br>
+ - T2:  Fazer o Teste de Usabilidade<br>
+ - T3:  Preparar as atividades para os usuários<br>
+ - T4:  Avaliação UX<br>
 <p>
 
-| Tarefas x Dia                        | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| Tarefas x Dia                        | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 | 17/10 |
 |--------------------------------------|----|----|----|----|----|----|----|
-| **T1: Preparação do documento para adicionar no GitHub** |    |    |    |    |    |    |    |
-| **T2: Fazer o Teste de Usabilidade**                     |    |    |    |    |    |    |    |
-| **T3: Preparar as atividades para os usuários**          |    |    |    |    |    |    |    |
-| **T4: Avaliação UX**                                     |    |    |    |    |    |    |    |
+| **T1: Preparação do documento para adicionar no GitHub** |X|X|A2:1|A1:1, A4:2|A1:2|X|X|
+| **T2: Fazer o Teste de Usabilidade**                     |X|X|X|X|X|X|x|
+| **T3: Preparar as atividades para os usuários**          |X|X|X|X|X|X|X|
+| **T4: Avaliação UX**                                     |X|X|X|X|X|X|X|
+| **T5:
 <p>
   <h1>2 - Sistema</h1>
 </p>
@@ -77,72 +78,13 @@ T4:  Avaliação UX<br>
   <h2>3.2 - Detecção</h2>
   <p>
   Cada integrante da equipe realizou uma inspeção individual do site, analisando as principais funcionalidades e identificando problemas de usabilidade seguindo as heurísticas. Os problemas foram organizados em uma tabela individual para cada inspetor. A tabela de detecção pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_deteccao.md">aqui</a>
-    
-## Inspetor: Luciano Hugo
-| ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
-|-------------|-------------|-------------|-------------|-------------|
-| 1 | Dificuldade na localização do botão de login | H1 | 2 | Página inicial |
-| 2 | No modo noturno, a visibilidade da barra de rolagem é mínima, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 | Página de compra de produto |
-| 3 | Não há um botão de voltar na página de confirmação de pedido | H3 e H5 | 3 | Página de confirmação de pedido e página de seleção de forma de pagamento |
-| 4 | Há excesso de informação na página inicial | H8 | 2 | Página inicial |
-
-## Inspetor: Johnny Xavier
-| ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
-|-------------|-------------|-------------|-------------|-------------|
-| 1 | O site não possui um padrão de layout, cores, ícones e formatação | H4 | 2 | Página inicial e subpáginas |
-| 2 | Muitas ofertas, produtos e informações desnecessárias na página inicial | H8 | 2 | Página inicial  |
-| 3 | Dificuldade na localização e navegação do usuário | H1 | 3 | Página inicial e subpáginas |
-
-## Inspetor: Alexandre Reis
-| ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
-|-------------|-------------|-------------|-------------|-------------|
-| 1 | Página inicial muito poluída | H8 | 3 | Página inicial |
-| 2 | Dificuldade de localização do usuário no site | H1 | 2 | Página inicial e Subpáginas |
-
-## Inspetor: Juliano Matheus
-| ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
-|-------------|-------------|-------------|-------------|-------------|
-| 1 | interface confusa e com muita informação | H8 | 2 | Página inicial e subpáginas |
-| 2 | Durante uma compra o usuário não tem um botão de voltar claro | H3 | 3 | Página de finalização de compra |
-
-## Inspetor: João Paulo
-| ID | Descrição do problema | Heurísticas violadas | Severidade | Ocorrência |
-|-------------|-------------|-------------|-------------|-------------|
-| 1 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda | H10 | 2 | Sessão de Ajuda |
-| 2 | A Homepage é visivelmente saturada, o que pode causar distrações | H8 | 1 | Página Inicial |
-| 3 | Não possui um padrão de cores e ícones consistentes | H4 | 2 | Página Inicial e Subpáginas |
-| 4 | Ausência de uma opção de voltar na hora da finalização da compra | H3 | 3 | Página de finalização de compra de produto |
 </p>
 </p>
 <p>
   <h2>3.3 - Coleção</h2>
 </p>
 Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As duplicatas foram eliminadas, deixando apenas os problemas únicos para serem discutidos e avaliados. A tabela de coleção pode ser visualizada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_colecao.md">aqui.</a>
-
-| ID | Inspetores | Descrição do Problema | Heurísticas Violadas | Severidade |
-|-------------|-------------|-------------|-------------|-------------|
-| 1 | A1 | Dificuldade na localização do botão de login | H1 | 2 |
-| 2 | A1, A4 e A5 | Ausência de uma opção de voltar na hora da finalização da compra | H3 e H5 | 3 |
-| 3 | A2 e A5 | O site não possui um padrão de layout, cores, ícones e formatação | H4 | 2 |
-| 4 | A2 e A3 | Dificuldade na localização e navegação do usuário | H1 | 3 |
-| 5 | A1, A2, A3, A4 e A5 | interface confusa e poluída pelo excesso de informação | H8 | 2 |
-| 6 | A5 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda| H10 | 2 |
-| 7 | A1 | No modo noturno, a visibilidade da barra de rolagem é mínima, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 |
 <p>
-  <h2>3.4 - Discriminação</h2>
-  Aqui, foram analisados os problemas de usabilidade identificados e classificados como sendo um defeito real ou falsos-positivos, e também foram categorizados com base nas heurísticas violadas e na severidade. A tabela de discriminação pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_discriminação.md">aqui</a>.
-
-| ID | Descrição do Problema | Heurística | Severidade | Classificação |
-|-------------|-------------|-------------|-------------|-------------|
-| 1 | Dificuldade na localização do botão de login | H1 | 2 | Falso-Positivo |
-| 2 | Ausência de uma opção de voltar na hora da finalização da compra | H3 e H5 | 3 | Defeito |
-| 3 | O site não possui um padrão de layout, cores, ícones e formatação | H4 | 2 | Defeito |
-| 4 | Dificuldade na localização e navegação do usuário | H1 | 3 | Defeito |
-| 5 | interface confusa e poluída pelo excesso de informação | H8 | 2 | Defeito |
-| 6 | É necessário filtrar muitos tópicos até encontrar uma resposta desejada na seção de ajuda | H9 | 2 | Falso-Positivo |
-| 7 | No modo noturno, a visibilidade da barra de rolagem é mínima, causando dificuldade na sua localização, principalmente para usuários que não possuem mouse | H4 | 2 | Falso-Positivo | 
-  <p>
-  </p>
   <h2>3.5 - Consolidação (ou priorização)</h2>
   <p>
     (aqui vai alguma coisa)
@@ -150,16 +92,16 @@ Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As 
 
 | Heurísticas violadas | Quantidade |
 | ----- | ------ |
-| Visibilidade do estado do sistema (H1) | 3 |
-| Correspondência entre o sistema e o mundo real (H2) | 0 |
-| Controle e liberdade do usua rio (H3) | 3 |
-| Consistencia e padronizaça o (H4) | 3 |
-| Prevenção de erros (H5) | 0 |
-| Reconhecer ao invés de relembrar (H6) | 0 |
-| Flexibilidade e eficiência de uso (H7) | 0 |
-| Estética e design minimalista (H8) | 5 |
-| Ajudar os usuários a reconhecer,em diagnosticar e corrigir erros (H9) | 0 |
-| Ajuda e documentação (H10) | 1 |
+| Visibilidade do estado do sistema (H1) | x |
+| Correspondência entre o sistema e o mundo real (H2) | x |
+| Controle e liberdade do usua rio (H3) | x |
+| Consistencia e padronizaça o (H4) | x |
+| Prevenção de erros (H5) | x |
+| Reconhecer ao invés de relembrar (H6) | x |
+| Flexibilidade e eficiência de uso (H7) | x |
+| Estética e design minimalista (H8) | x |
+| Ajudar os usuários a reconhecer,em diagnosticar e corrigir erros (H9) | x |
+| Ajuda e documentação (H10) | x |
 
 <br> 
 
@@ -176,23 +118,44 @@ Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As 
   <p>
     <h2>4.1 - Planejamento</h2>
     <p>
-      (aqui vai alguma coisa)
+      O Teste de usabilidade será feito com 4 usuários e mais um teste piloto, sendo o teste baseado em técnicas de observação. O Teste de usabilidade será feito em ambiente fechado e restrito, com o usuário sendo observado por um analista. O usuário terá que realizar tarefas, que foram pré-estabelecidas pelo analista, após será analisado o seu desempenho. O objetivo do teste é analisar o sistema da Amazon.
+      <p>
+      Os perfis variaram desde usuários com pouca experiência em compras online até aqueles que utilizam aplicativos de forma frequente. As características de cada participante foram:
     </p>
+    <p>
+- P1: Usuário novato, pouca experiência com apps de compras online. <br>
+- P2: Usuário intermediário, familiarizado com e-commerce, mas com uso esporádico. <br>
+- P3: Usuário avançado, utiliza frequentemente aplicativos de compras. <br>
+- P4: Usuário experiente, já familiarizado com o aplicativo. <p>
+As métricas analisadas serão: Sucesso, erros e satisfação.
+</p>
     <p>
       <h2>4.2 - Preparação</h2>
       <p>
-        (aqui vai alguma coisa)
+        O teste de usabilidade foi realizado em um quarto, com o objetivo de simular um ambiente cotidiano. A configuração incluiu uma mesa para apoiar os dispositivos móveis, permitindo que os participantes interajam de forma confortável. Um software de gravação de tela foi utilizado em cada dispositivo para capturar as interações, e uma câmera foi posicionada para registrar as reações dos usuários. <p>
+Os participantes foram recrutados com base na sua experiência com o uso de aplicativos de e-commerce e por meio de redes sociais e contatos pessoais, garantindo que não tivessem participado de testes anteriores do mesmo sistema. <p>
+Todos leram e assinaram o Termo de Consentimento Livre e Esclarecido (TCLE), que garantiu sua participação voluntária e a confidencialidade dos dados, além do uso para pesquisa. O avaliador também assinou o TCLE, e os termos assinados foram digitalizados para serem incluídos no relatório.
       </p>
       <p>
         <h2>4.3 - Teste Piloto</h2>
         <p>
-          (aqui alguma coisa)
+          O teste piloto foi realizado com um dos participantes intermediários (P2) para validar a adequação das tarefas, a configuração do ambiente e os recursos utilizados. O ambiente do teste, um quarto sem distrações, foi configurado para simular uma experiência de uso cotidiana em dispositivos móveis, utilizando celulares para a execução das tarefas. O objetivo principal do teste piloto foi identificar possíveis falhas no planejamento ou na execução do teste e garantir que todos os elementos estivessem funcionando corretamente.
         </p>
       </p>
       <p>
         <h2>4.4 - Execução</h2>
         <p>
-          (aqui vai alguma coisa)
+          Os usuários foram instruídos a realizar as seguintes tarefas: <p></p>
+1. Criar um login no site <br>
+2. Fazer uma busca por um ou mais produtos no site <br>
+3. Filtrar a busca pelo produto <br>
+4. Adicionar os produtos em um carrinho <br>
+5. Inserir uma forma de pagamento e os detalhes para envio <br>
+6. Assinar o serviço Amazon Prime <br>
+7. Tirar dúvidas sobre a devolução de um produto <br>
+8. Compartilhar um Produto <br>
+<p><br>
+Durante a execução, os participantes foram orientados a falar em voz alta seus pensamentos (método think aloud). Não houve interferência direta dos avaliadores durante a realização das tarefas, exceto quando solicitado pelos usuários. </p>
         </p>
       </p>
       <p>
@@ -331,10 +294,137 @@ Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As 
     <h2>5.2 - 1ª Etapa</h2>
     <p>Para a primeira etapa, foi utilizada a ferramenta Lighthouse do Google, para avaliação da página inicial do site. Deste modo, foram obtidos os seguintes resultados para suas respectivas avaliações:</p>
     <p>
-      <br>
-      (alterar imagem)
-      <br>
-      <img src="https://www.fecesc.org.br/siteprincipal/wp-content/uploads/2015/06/teste.jpg">
+      <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/Resultado%20LH.png?raw=true">
     </p>
   </p>
 </p>
+
+<p>
+    <h2>5.3 - 2ª Etapa</h2>
+    (aqui vai alguma coisa)
+</p>
+<br>
+<p>
+    <h1>6 - Método de avaliação de comunicabilidade (MAC)</h1>
+    <p>
+        <h2>6.1 - Planejamento</h2>
+        <p>(aqui vai alguma coisa)</p>
+    </p>
+</p>
+<p>
+    <h2>6.1 - Planejamento</h2>
+    <p>
+        (aqui vai alguma coisa)
+    </p>
+</p>
+<p>
+    <h2>6.2 - Roteiro das atividades</h2>
+    <p>
+        (aqui vai alguma coisa)
+    </p>
+    <p>
+        <h2>6.3 - Perfis dos Usuários</h2>
+        <p>
+            (aqui vai alguma coisa)
+        </p>
+    </p>
+    <p>
+        <h2>6.4 - Execução</h2>
+        <p>
+            (aqui vai alguma coisa)
+        </p>
+        <p>
+            <h3>6.4.1 - Resultado</h3>
+            <p>
+                (aqui vai alguma coisa)
+            </p>
+            <p>
+            </p>
+        </p>
+    </p>
+</p>
+
+- Tarefa 1:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+
+<br>
+- Tarefa 2:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+<br>
+- Tarefa 2:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+<br>
+- Tarefa 3:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+<br>
+- Tarefa 4:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+<br>
+- Tarefa 5:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+<br>
+- Tarefa 6:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+<br>
+- Tarefa 7:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+<br>
+- Tarefa 8:
+
+|Participante|Resultado|
+|------------|---------|
+|P1|x|
+|P2|x|
+|P3|x|
+|P4|x|
+
+<p><br></p>
+<h1>7 - Reflexão Individual</h1>
