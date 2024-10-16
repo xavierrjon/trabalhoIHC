@@ -3,7 +3,7 @@ Resultado após a eliminação de discrepâncias repetidas
 
 | ID | Inspetores | Descrição do Problema | Heurísticas Violadas | Severidade |
 |-------------|-------------|-------------|-------------|-------------|
-| 1 | A1 | Dificuldade na localização do botão de login | H1 | 2 |
+| 1 | A1 | Dificuldade na localização do botão de login | H1 | 1 |
 | 2 | A1, A4 e A5 | Ausência de uma opção de voltar na hora da finalização da compra | H3 e H5 | 3 |
 | 3 | A2 e A5 | O site não possui um padrão de layout, cores, ícones e formatação | H4 | 2 |
 | 4 | A2 e A3 | Dificuldade na localização e navegação do usuário | H1 | 3 |
