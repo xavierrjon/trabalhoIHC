@@ -97,7 +97,7 @@ Aqui, foram analisados os problemas de usabilidade identificados e classificados
 
 | Heurísticas violadas | Quantidade |
 | ----- | ------ |
-| Visibilidade do estado do sistema (H1) | 2 |
+| Visibilidade do estado do sistema (H1) | 3 |
 | Correspondência entre o sistema e o mundo real (H2) | 0 |
 | Controle e liberdade do usua rio (H3) | 3 |
 | Consistencia e padronizaça o (H4) | 3 |
@@ -113,7 +113,7 @@ Aqui, foram analisados os problemas de usabilidade identificados e classificados
   | Severidade | Quantidade |
   | ---------- | ---------- |
   | 0 - Falso Positivo | 0 |
-  | 1 - Cosmético | 1 |
+  | 1 - Cosmético | 2 |
   | 2 - Leve | 10 |
   | 3 - Grande | 3 |
   | 4 - Catastófrico | 0 |
