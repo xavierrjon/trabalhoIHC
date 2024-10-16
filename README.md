@@ -85,6 +85,11 @@ Tarefas:<br>
 </p>
 Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As duplicatas foram eliminadas, deixando apenas os problemas únicos para serem discutidos e avaliados. A tabela de coleção pode ser visualizada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_colecao.md">aqui.</a>
 <p>
+<p>
+  <h2>3.4 - Discriminação</h2>
+</p>
+Aqui, foram analisados os problemas de usabilidade identificados e classificados como sendo um defeito real ou falsos-positivos, e também foram categorizados com base nas heurísticas violadas e na severidade. A tabela de discriminação pode ser acessada <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/inspecao_usabilidade/tabela_discrimina%C3%A7%C3%A3o.md">aqui.</a>
+</p>
   <h2>3.5 - Consolidação (ou priorização)</h2>
   <p>
     (aqui vai alguma coisa)
@@ -92,26 +97,26 @@ Nesta etapa, todos os problemas identificados  foram reunidos em uma tabela. As 
 
 | Heurísticas violadas | Quantidade |
 | ----- | ------ |
-| Visibilidade do estado do sistema (H1) | x |
-| Correspondência entre o sistema e o mundo real (H2) | x |
-| Controle e liberdade do usua rio (H3) | x |
-| Consistencia e padronizaça o (H4) | x |
-| Prevenção de erros (H5) | x |
-| Reconhecer ao invés de relembrar (H6) | x |
-| Flexibilidade e eficiência de uso (H7) | x |
-| Estética e design minimalista (H8) | x |
-| Ajudar os usuários a reconhecer,em diagnosticar e corrigir erros (H9) | x |
-| Ajuda e documentação (H10) | x |
+| Visibilidade do estado do sistema (H1) | 2 |
+| Correspondência entre o sistema e o mundo real (H2) | 0 |
+| Controle e liberdade do usua rio (H3) | 3 |
+| Consistencia e padronizaça o (H4) | 3 |
+| Prevenção de erros (H5) | 1 |
+| Reconhecer ao invés de relembrar (H6) | 0 |
+| Flexibilidade e eficiência de uso (H7) | 0 |
+| Estética e design minimalista (H8) | 5 |
+| Ajudar os usuários a reconhecer,em diagnosticar e corrigir erros (H9) | 0 |
+| Ajuda e documentação (H10) | 1 |
 
 <br> 
 
   | Severidade | Quantidade |
   | ---------- | ---------- |
-  | 0 - Falso Positivo | x |
-  | 1 - Cosmético | x |
-  | 2 - Leve | x |
-  | 3 - Grande | x |
-  | 4 - Catastófrico | x |
+  | 0 - Falso Positivo | 0 |
+  | 1 - Cosmético | 1 |
+  | 2 - Leve | 10 |
+  | 3 - Grande | 3 |
+  | 4 - Catastófrico | 0 |
 
 <p>
   <h1>4 - Teste de Usabilidade</h1>
