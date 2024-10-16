@@ -635,7 +635,7 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 <h1>7 - Reflexão Individual</h1><br>
 
 A Reflexão Individual de cada aluno foi preparada após o término de todas as atividades do trabalho e estão disponbilizadas a seguir: <p>
-  Silva <b>#22402224</b><br>
+  - Aluno 1: João Paulo Barreto da Silva <b>#22402224</b><br>
 <a href="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/relatorios_individuais/relatorio_individual_a1.md">Reflexão Individual</a> <br>
 
 - Aluno 2: Johnny da Silva Xavier <b>#22450270</b><br>
