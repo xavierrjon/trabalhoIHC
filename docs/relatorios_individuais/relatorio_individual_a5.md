@@ -1,1 +1,3 @@
-
+<h1>Relato de experiência: Alexandre Reis dos Santos</h1>
+<p></p>
+Com o teste de usabilidade do site da Amazon, aprendi a importância de uma navegação intuitiva e de processos simples para melhorar a experiência do usuário. Percebi que pequenos problemas, como dificuldade no uso de filtros ou no checkout, podem gerar frustração e impactar o sucesso da compra. Também entendi o valor do feedback dos usuários para identificar melhorias que vão além dos dados quantitativos. O aprendizado principal foi como ajustes sutis na interface podem aumentar significativamente a satisfação e a eficiência do usuário.
