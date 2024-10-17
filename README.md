@@ -2,7 +2,7 @@
 <p>
 <h2>1.1 - Dados do Projeto</h2>
 
-Docente: Prof. Dr. Andrey Rodrigues
+Docente: Prof. Dr. Andrey Antônio de Oliveira Rodrigues
 
 Equipe
 
@@ -17,17 +17,18 @@ Tarefas:<br>
  - T2:  Fazer o Teste de Usabilidade<br>
  - T3:  Preparar as atividades para os usuários<br>
  - T4:  Avaliação UX<br>
+ - T5: Inspeção do Site<br>
 <p>
 
 | Tarefas x Dia                        | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 |
 |--------------------------------------|----|----|----|----|----|----|
-| **T1: Preparação do documento para adicionar no GitHub** |X|X|A2:1|A1:1, A4:2|A1:2|A1:4, A2:4, A3:4, A4:4|
-| **T2: Fazer os Testes (comunicabilidade e Usabilidade)**                     |X|X|X|X|X|X|
-| **T3: Preparar as atividades para os usuários**          |X|X|X|X|X|X|
-| **T4: Formatar o slide**                                     |X|X|X|X|X|X|
-| **T5: Inspeção do Site**
+| *T1: Preparação do documento para adicionar no GitHub* |X|X|A2:1|A1:1, A4:2|A1:2|A1:4, A2:4, A3:4, A4:4|
+| *T2: Fazer os Testes (comunicabilidade e Usabilidade)*                     |A4:2|X|A4:2|X|A4:2|A4:3|
+| *T3: Preparar as atividades para os usuários*          |A1:1, A3:1|X|X|X|X|X|
+| *T4: Formatar o slide*                                     |X|X|X|X|A2:2|A2:3|
+| *T5: Inspeção do Site*                                 |A4:1, A2:1, A3:1, A5:1, A1:1|X|X|X|X|X|
 <p>
-  <h1>2 - Sistema</h1>
+  <h1>2 - Sistema</h1>  
 </p>
 <p>
   <h2>2.1 - Domínio do Sistema</h2>
@@ -176,126 +177,133 @@ Durante a execução, os participantes foram orientados a falar em voz alta seus
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|2:27|3|0|
+|P2|3:12|4|1|
+|P3|1:29|2|1|
+|P4|0:50|0|0|
 <br>
 
 - Tarefa 2: <br>
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|0:52|3|0|
+|P2|1:01|4|1|
+|P3|0:43|2|1|
+|P4|0:52|0|0|
 <br>
 
 - Tarefa 3: <br>
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|0:41|1|0|
+|P2|2:15|2|0|
+|P3|0:40|0|0|
+|P4|0:24|0|0|
 <br>
 
 - Tarefa 4: <br>
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|1:10|0|0|
+|P2|0:50|0|0|
+|P3|0:53|1|0|
+|P4|0:21|0|0|
 <br>
 
 - Tarefa 5: <br>
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|1:20|0|0|
+|P2|1:45|1|0|
+|P3|1:23|2|1|
+|P4|1:29|1|0|
 <br>
 
 - Tarefa 6: <br>
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|1:08|1|0|
+|P2|2:20|1|0|
+|P3|1:41|0|0|
+|P4|1:02|1|0|
 <br>
 
 - Tarefa 7: <br>
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|1:31|2|0|
+|P2|2:29|2|1|
+|P3|0:59|1|0|
+|P4|1:43|1|0|
 <br>
 
 - Tarefa 8: <br>
 
 |Participante|Tempo gasto|Números de erros|Solicitações de ajuda|
 |-----|-----|-----|-----|
-|P1|X|X|X|
-|P2|X|X|X|
-|P3|X|X|X|
-|P4|X|X|X|
+|P1|0:42|0|0|
+|P2|0:45|0|0|
+|P3|0:32|0|0|
+|P4|0:21|0|0|
 <br>
+
+<h2>- Lista de Problemas: </h2> <p>
+
+
+- PU1: O usuário era redirecionado para área de Criar Conta, colocava seu email, porém o site não retornava um feedback ao usuário. <br>
+
+- PU2: O usuário colocava novamente o email e o site retornava que já havia uma conta com esse email. <br>
+
+- PU3.O usuário não sabia qual era a área de filtrar produto e, logo após achar,  não ficava satisfeito com o resultado. <br>
+
+- PU4. Usuário não conseguia colocar a forma de pagamento, site travou e não deu retorno. <br>
+
+- PU5. Usuário se direcionava para a parte de baixo do sistema em busca da área de dúvidas, mas o site carregava mais produtos, usuário teve que optar por outro caminho. <br><br><p>->Segue a tabela de cada participante:<br><br>
 
 - Participante 1: <br>
 
 |ID|Descrição do problema|Fator de usabilidade|
 |-----|-----|-----|
-|x|x|x|
-|x|x|x|
-|x|x|x|
-|x|x|x|
+|PU1|O usuário era redirecionado para área de Criar Conta, colocava seu email, porém o site não retornava um feedback ao usuário.|Satisfação de uso|
+|PU3|O usuário não sabia qual era a área de filtrar produto e, logo após achar,  não ficava satisfeito com o resultado.|Facilidade de aprendizado e eficiência de uso|
+
 <br>
 
 - Participante 2: <br>
 
 |ID|Descrição do problema|Fator de usabilidade|
 |-----|-----|-----|
-|x|x|x|
-|x|x|x|
-|x|x|x|
-|x|x|x|
+|PU1|O usuário era redirecionado para área de Criar Conta, colocava seu email, porém o site não retornava um feedback ao usuário.|Satisfação de Uso|
+|PU3|O usuário não sabia qual era a área de filtrar produto e, logo após achar,  não ficava satisfeito com o resultado.|Facilidade de aprendizado e eficiência de uso |
+|PU5|Usuário se direcionava para a parte de baixo do sistema em busca da área de dúvidas, mas o site carregava mais produtos, usuário teve que optar por outro caminho.| Eficiência de uso, facilidade de aprendizado|
+|PU4|Usuário não conseguia colocar a forma de pagamento, site travou e não deu retorno.|Eficiência de uso e satisfação de uso|
 <br>
 
 - Participante 3: <br>
 
 |ID|Descrição do problema|Fator de usabilidade|
 |-----|-----|-----|
-|x|x|x|
-|x|x|x|
-|x|x|x|
-|x|x|x|
+|PU1|O usuário era redirecionado para área de Criar Conta, colocava seu email, porém o site não retornava um feedback ao usuário.|Satisfação de uso|
+|PU4|Usuário não conseguia colocar a forma de pagamento, site travou e não deu retorno.|Eficiência de uso e satisfação de uso|
 <br>
 
 - Participante 4: <br>
 
 |ID|Descrição do problema|Fator de usabilidade|
 |-----|-----|-----|
-|x|x|x|
-|x|x|x|
-|x|x|x|
-|x|x|x|
+|PU5|Usuário se direcionava para a parte de baixo do sistema em busca da área de dúvidas, mas o site carregava mais produtos, usuário teve que optar por outro caminho.|Eficiência de uso, facilidade de aprendizado|
 <br>
 <p>
   <h1>5 - Avaliação UX</h1>
   <p>
     <h2>5.1 - Planejamento</h2>
-    <p>O processo de Avaliação de Experiência foi estruturado em duas etapas, onde a primeira fará uso de uma ferramenta de avaliação e a outra, será utilizado a pesquisa de emoção do usuário ao usar o sistema por meio de um questionário.</p>
+    <p>O processo de Avaliação de Experiência foi estruturado em duas etapas, onde a primeira fará uso de uma ferramenta de avaliação e a outra, será utilizado a pesquisa de emoção do usuário ao usar o sistema por meio de um questionário. Os questionários podem ser acessados <a href="https://github.com/xavierrjon/trabalhoIHC/tree/main/docs/avaliacao_ux/questionarios_ueq">aqui.</a></p>
     <h2>5.2 - 1ª Etapa</h2>
     <p>Para a primeira etapa, foi utilizada a ferramenta Lighthouse do Google, para avaliação da página inicial do site. Deste modo, foram obtidos os seguintes resultados para suas respectivas avaliações:</p>
     <p>
@@ -406,19 +414,19 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|0|
+|E agora?|0|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|0|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|0|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 
 <br>
 - Tarefa 2:
@@ -437,19 +445,19 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|0|
+|E agora?|0|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|0|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|0|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 <br>
 - Tarefa 3:
 
@@ -467,19 +475,19 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|2|
+|E agora?|3|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|1|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|1|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 <br>
 - Tarefa 4:
 
@@ -497,19 +505,19 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|1|
+|E agora?|1|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|0|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|0|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 <br>
 - Tarefa 5:
 
@@ -527,25 +535,25 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|1|
+|E agora?|2|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|0|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|0|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 <br>
 - Tarefa 6:
 
 |Participante|Resultado|
 |------------|---------|
-|P1|conseguiu com bastante dificuldade|
+|P1|conseguiu|
 |P2|conseguiu com dificuldade|
 |P3|conseguiu com pouca dificuldade|
 |P4|conseguiu com pouca dificuldade|
@@ -557,19 +565,19 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|3|
+|E agora?|2|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|0|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|0|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 <br>
 - Tarefa 7:
 
@@ -587,19 +595,19 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|0|
+|E agora?|2|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|0|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|0|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 <br>
 - Tarefa 8:
 
@@ -616,19 +624,19 @@ Tendo em vista que o avaliador não ajudaria na hora da execução das tarefas d
 
 |Etiqueta|Quantidade|
 |--------|----------|
-|Cade?|x|
-|E agora?|x|
-|O que é isto?|x|
-|Epa!|x|
-|Onde estou?|x|
-|Assim não dá|x|
-|Por que não funciona?|x|
-|Ue, o que houve?|x|
-|Pra mim está bom...|x|
-|Desisto!|x|
-|Vai de outro jeito.|x|
-|Não, obrigado|x|
-|Socorro!|x|
+|Cade?|2|
+|E agora?|0|
+|O que é isto?|0|
+|Epa!|0|
+|Onde estou?|0|
+|Assim não dá|0|
+|Por que não funciona?|0|
+|Ue, o que houve?|0|
+|Pra mim está bom...|0|
+|Desisto!|0|
+|Vai de outro jeito.|0|
+|Não, obrigado|0|
+|Socorro!|0|
 
 
 <p><br></p>
