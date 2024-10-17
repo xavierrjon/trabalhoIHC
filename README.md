@@ -303,7 +303,7 @@ Durante a execução, os participantes foram orientados a falar em voz alta seus
   <h1>5 - Avaliação UX</h1>
   <p>
     <h2>5.1 - Planejamento</h2>
-    <p>O processo de Avaliação de Experiência foi estruturado em duas etapas, onde a primeira fará uso de uma ferramenta de avaliação e a outra, será utilizado a pesquisa de emoção do usuário ao usar o sistema por meio de um questionário. Os questionários podem ser acessados <a href="https://github.com/xavierrjon/trabalhoIHC/tree/main/docs/avaliacao_ux/questionarios_ueq">aqui.</a></p>
+    <p>O processo de Avaliação de Experiência foi estruturado em duas etapas, onde a primeira fará uso de uma ferramenta de avaliação e a outra, será utilizado a pesquisa de emoção do usuário ao usar o sistema por meio de um questionário.</p>
     <h2>5.2 - 1ª Etapa</h2>
     <p>Para a primeira etapa, foi utilizada a ferramenta Lighthouse do Google, para avaliação da página inicial do site. Deste modo, foram obtidos os seguintes resultados para suas respectivas avaliações:</p>
     <p>
@@ -343,7 +343,7 @@ O TBT mede o tempo total em que uma página fica bloqueada para responder à ent
 <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/speed.png?raw=true"> <br><br>
 O Índice de velocidade mede a rapidez com que o conteúdo é exibido visualmente durante o carregamento da página. O Lighthouse primeiro captura um vídeo do carregamento da página no navegador e calcula a progressão visual entre os frames. A pontuação do índice de velocidade é uma comparação entre os índices de velocidade da página e de sites reais, com base em dados do HTTP Archive. <p><h2>- Conclusão</h2><p>O site da Amazon foi considerado <b>REPROVADO</b> pela Avaliação das Core Web Vitals com os seguintes valores para Diagnóstico de Problema de Desempenho: <p> <img src="https://github.com/xavierrjon/trabalhoIHC/blob/main/docs/imagens/desempenho.png?raw=true">
     <h2>5.3 - 2ª Etapa</h2>
-     Após  o teste de comunicabilidade, A ferramenta UEQ foi utilizada para concluir a avaliação de UX , os participantes foram convidados a fazerem o questionário para avaliar o sistema da amazon com base nas suas opiniões e impressões.
+     Após  o teste de comunicabilidade, A ferramenta UEQ foi utilizada para concluir a avaliação de UX , os participantes foram convidados a fazerem o questionário para avaliar o sistema da amazon com base nas suas opiniões e impressões. Os questionários podem ser acessados <a href="https://github.com/xavierrjon/trabalhoIHC/tree/main/docs/avaliacao_ux/questionarios_ueq">aqui.</a>
 </p>
 <br>
 <p>
