@@ -1,1 +1,3 @@
-
+<h1>Relato de experiência: Juliano Matheus Amazonas de Souzs</h1>
+<p></p>
+O trabalho prático 1 proposto para complementar nota, foi sem dúvidas um dos mais complexos que eu ja fiz e muito estressante devido aos seus objetivos. Onde o trabalho em equipe é de extrema importância para o sucesso. Houve um grande esforço dos membros da equipe, o que ajudou muito na divisão de tarefas para assim acelerar ao máximo todo o processo, pensei várias vezes em desistir do trabalho porém seguimos firme até o final, mesmo com todo estresse, conflito e exaustão fisica e mental. Concluindo, esse projeto me ensinou muitas coisas e foi fundamental para meu desenvolvimento como univertário..
